@@ -2,7 +2,7 @@ import sqlite3
 import re
 import datetime
 
-con = sqlite3.connect("ProsjektDB.db") #File missing
+con = sqlite3.connect("ProsjektDB.db") #File was accidentally deleted after project was delivered, but the functionality should still be clear
 cursor = con.cursor()
 
 
