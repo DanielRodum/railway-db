@@ -1,8 +1,14 @@
-# sql-database-project
-Denne oppgaven omhandler en simplifisering av det norske jernbanenettverket, og det skulle lages en database for dette nettverket. 
+# Norwegian Railway Network Database
 
-.png-filen inneholder en Entity Relationship (ER) modell vi lagde for å holde oversikt over entitet- og relasjonsklassene.
+## Overview
+This project models a simplified version of the Norwegian railway network
+using relational database design principles.
 
-.sql-filen inneholder selve databasen.
+## ER Diagram
 
-.py filen inneholder implementasjonen av databasen, samt et enkelt brukergrensesnitt.
+![ER Diagram](docs/er-diagram.png)
+
+## Technologies
+- SQL
+- Python
+- Relational Database Design
