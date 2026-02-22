@@ -2,7 +2,7 @@ import sqlite3
 import re
 import datetime
 
-con = sqlite3.connect("ProsjektDB.db")
+con = sqlite3.connect("ProsjektDB.db") #File missing
 cursor = con.cursor()
 
 
